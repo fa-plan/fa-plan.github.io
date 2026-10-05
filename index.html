@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Filmakademie Stundenplan – automatically updated every 2 hours">
+<meta name="description" content="Filmakademie-Stundenplan – automatisch alle 2 Stunden aktualisiert">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect x=%223%22 y=%225%22 width=%2226%22 height=%2224%22 rx=%225%22 fill=%22%232c7a66%22/%3E%3Crect x=%223%22 y=%225%22 width=%2226%22 height=%227%22 rx=%223%22 fill=%22%231c4f42%22/%3E%3C/svg%3E">
-<title>Filmakademie Stundenplan</title>
+<title>Filmakademie-Stundenplan</title>
 <script>try { const k = JSON.parse(localStorage.getItem("fa.skin") || "null"); if (k && k !== "auto") document.documentElement.setAttribute("data-skin", k); } catch (e) {}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -82,6 +82,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .row { display: flex; align-items: center; gap: 4px; min-width: 0; }
 .month { display: flex; align-items: center; gap: 4px; font-size: 22px; font-weight: 600; letter-spacing: -.015em; padding: 4px 0; min-width: 0; }
 .month span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.month small { font-size: 15px; font-weight: 500; color: var(--muted); }
 .month svg { width: 18px; height: 18px; color: var(--muted); flex: none; transition: transform .15s; }
 .month[aria-expanded="true"] svg { transform: rotate(180deg); }
 .sp { flex: 1; min-width: 0; }
@@ -214,7 +215,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .tag.req { background: var(--accent-soft); color: var(--accent); font-weight: 500; }
 .tag.cx { background: var(--line-soft); color: var(--now); font-weight: 500; }
 .sh-act { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 2px 0 4px; }
-.sh-act a { display: grid; place-items: center; height: 44px; font-size: 14px; font-weight: 500; text-decoration: none; border-radius: 12px; border: 1px solid var(--line); color: var(--fg); text-align: center; padding: 0 8px; }
+.sh-act a { display: grid; place-items: center; min-height: 44px; line-height: 1.2; padding-block: 6px; font-size: 14px; font-weight: 500; text-decoration: none; border-radius: 12px; border: 1px solid var(--line); color: var(--fg); text-align: center; padding: 0 8px; }
 .sh-act a.pri { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); }
 
 footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.5; display: grid; gap: 10px; }
@@ -331,65 +332,65 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
   const LANGS = { de: { name: "Deutsch", loc: "de-DE" }, en: { name: "English", loc: "en-GB" }, uk: { name: "Українська", loc: "uk-UA" } };
   const T = {
     de: {
-      doc: "Filmakademie Stundenplan", title: "Stundenplan", lang_aria: "Sprache", lang_title: "Sprache", theme_aria: "Design", search_aria: "Suche", today_aria: "Heute",
+      doc: "Filmakademie-Stundenplan", title: "Stundenplan", lang_aria: "Sprache", lang_title: "Sprache", theme_aria: "Design", search_aria: "Suche", today_aria: "Heute",
       search_ph: "Kurs, Raum, Dozent*in", view_aria: "Ansicht", day: "Tag", list: "Liste", mand: "Pflicht",
       load_h: "Stundenplan wird geladen…", load_p: "Gleich erscheinen hier deine Termine.",
-      sub_gc: "In Google Kalender abonnieren", ics_all: "Alle Termine (.ics)", ics_mand: "Nur Pflicht (.ics)",
+      sub_gc: "In Google Kalender abonnieren", ics_all: "Alle Termine (.ics)", ics_mand: "Nur Pflichttermine (.ics)",
       prev_m: "Vorheriger Monat", next_m: "Nächster Monat",
-      now_until: (t) => `Jetzt · bis ${t}`, in_dur: (d) => `In ${d}`, min: "Min.", hr: "Std.",
+      now_until: (t) => `Jetzt · bis ${t}`, in_dur: (d) => `In ${d}`, min: "Min.", hr: "Std.", days_dat: { one: "Tag", other: "Tagen" }, lect: "Dozent*innen:",
       days: { one: "Tag", other: "Tage" }, classes: { one: "Termin", other: "Termine" }, slots: { one: "Slot", other: "Slots" }, hits: { one: "Treffer", other: "Treffer" },
-      wk: "KW", free_past: "Keine Termine", free_day: "Freier Tag", free_mand: "Keine Pflichttermine.", free_none: "An diesem Tag steht nichts an.", next_lbl: "Nächster Termin:",
+      wk: "KW", free_past: "Keine Termine", free_day: "Freier Tag", free_mand: "Keine Pflichttermine.", free_none: "Für diesen Tag ist nichts eingetragen.", next_lbl: "Nächster Termin:",
       list_none_h: "Keine weiteren Termine", list_none_p: "In ev3nts ist noch nichts geplant.", more: "Mehr anzeigen",
       none_h: "Nichts gefunden", none_p: "Versuch es mit einem Teil des Titels, einer Raumnummer oder einem Nachnamen.",
-      cx_chip: "abgesagt", cx_tag: "Abgesagt", req_tag: "Pflicht", opt_tag: "Freiwillig", slots_each: (n, w, m) => `${n} ${w} à ${m} Min.`,
-      close: "Schließen", req_for: "Pflicht für:", to_gcal: "In Google Kalender", open_ev: "In ev3nts öffnen",
+      cx_chip: "abgesagt", cx_tag: "Abgesagt", req_tag: "Pflicht", opt_tag: "Freiwillig", slots_each: (n, w, m) => `${n} ${w} à ${m} Min.`,
+      close: "Schließen", req_for: "Pflicht für:", to_gcal: "Zum Kalender hinzufügen", open_ev: "In ev3nts öffnen",
       theme_title: "Design", theme_note: "„Auto“ folgt dem Design deines Handys. Die Auswahl wird auf diesem Gerät gespeichert.",
-      skins: { auto: "Auto", light: "Hell", dark: "Dunkel", pink: "Rosa", barbie: "Barbie", lavender: "Lavendel", mint: "Minze", film: "Film", neon: "Neon" },
+      skins: { auto: "Auto", light: "Hell", dark: "Dunkel", pink: "Rosa", barbie: "Barbie", lavender: "Lavendel", mint: "Mint", film: "Film", neon: "Neon" },
       foot: (a, c) => `Stundenplan zuletzt geändert: ${a} · ${c} · ev3nts wird alle 2 Stunden geprüft`, foot_err: (a, e) => ` · Letzte Prüfung (${a}) fehlgeschlagen: ${e}`,
       fail_h: "Stundenplan konnte nicht geladen werden", fail_p: "Prüf deine Internetverbindung und lade die Seite neu.",
     },
     en: {
-      doc: "Filmakademie Schedule", title: "Schedule", lang_aria: "Language", lang_title: "Language", theme_aria: "Theme", search_aria: "Search", today_aria: "Today",
+      doc: "Filmakademie Timetable", title: "Timetable", lang_aria: "Language", lang_title: "Language", theme_aria: "Theme", search_aria: "Search", today_aria: "Today",
       search_ph: "Course, room, lecturer", view_aria: "View", day: "Day", list: "List", mand: "Mandatory",
-      load_h: "Loading schedule…", load_p: "Your classes will appear here in a moment.",
+      load_h: "Loading timetable…", load_p: "Your classes will appear here in a moment.",
       sub_gc: "Subscribe in Google Calendar", ics_all: "All classes (.ics)", ics_mand: "Mandatory only (.ics)",
       prev_m: "Previous month", next_m: "Next month",
-      now_until: (t) => `Now · until ${t}`, in_dur: (d) => `In ${d}`, min: "min", hr: "h",
+      now_until: (t) => `Now · until ${t}`, in_dur: (d) => `In ${d}`, min: "min", hr: "h", lect: "Lecturers:",
       days: { one: "day", other: "days" }, classes: { one: "class", other: "classes" }, slots: { one: "slot", other: "slots" }, hits: { one: "result", other: "results" },
-      wk: "Week", free_past: "No classes", free_day: "Free day", free_mand: "No mandatory classes.", free_none: "Nothing is scheduled for this day.", next_lbl: "Next:",
-      list_none_h: "No upcoming classes", list_none_p: "Nothing is planned in ev3nts yet.", more: "Show more",
+      wk: "Week", free_past: "No classes", free_day: "Free day", free_mand: "No mandatory classes.", free_none: "Nothing scheduled for this day.", next_lbl: "Next:",
+      list_none_h: "No upcoming classes", list_none_p: "Nothing scheduled in ev3nts yet.", more: "Show more",
       none_h: "No results", none_p: "Try part of a title, a room number or a surname.",
-      cx_chip: "cancelled", cx_tag: "Cancelled", req_tag: "Mandatory", opt_tag: "Optional", slots_each: (n, w, m) => `${n} ${w} of ${m} min`,
-      close: "Close", req_for: "Mandatory for:", to_gcal: "Add to Google Calendar", open_ev: "Open in ev3nts",
+      cx_chip: "cancelled", cx_tag: "Cancelled", req_tag: "Mandatory", opt_tag: "Optional", slots_each: (n, w, m) => `${n} ${w} of ${m} min`,
+      close: "Close", req_for: "Mandatory for:", to_gcal: "Add to Calendar", open_ev: "Open in ev3nts",
       theme_title: "Theme", theme_note: "“Auto” follows your phone’s theme. Your choice is saved on this device.",
       skins: { auto: "Auto", light: "Light", dark: "Dark", pink: "Pink", barbie: "Barbie", lavender: "Lavender", mint: "Mint", film: "Film", neon: "Neon" },
-      foot: (a, c) => `Schedule last changed ${a} · ${c} · ev3nts is checked every 2 hours`, foot_err: (a, e) => ` · Last check (${a}) failed: ${e}`,
-      fail_h: "Couldn’t load the schedule", fail_p: "Check your internet connection and reload the page.",
+      foot: (a, c) => `Timetable last updated ${a} · ${c} · synced with ev3nts every 2 hours`, foot_err: (a, e) => ` · Last check (${a}) failed: ${e}`,
+      fail_h: "Couldn’t load the timetable", fail_p: "Check your internet connection and reload the page.",
     },
     uk: {
       doc: "Filmakademie — розклад", title: "Розклад", lang_aria: "Мова", lang_title: "Мова", theme_aria: "Тема оформлення", search_aria: "Пошук", today_aria: "Сьогодні",
-      search_ph: "Предмет, аудиторія, викладач", view_aria: "Вигляд", day: "День", list: "Список", mand: "Обов’язкові",
-      load_h: "Завантажую розклад…", load_p: "За мить тут з’являться заняття.",
-      sub_gc: "Підписатися в Google Календарі", ics_all: "Усі заняття (.ics)", ics_mand: "Лише обов’язкові (.ics)",
+      search_ph: "Предмет, аудиторія, викладач", view_aria: "Вигляд", day: "День", list: "Список", mand: "Обовʼязкові",
+      load_h: "Завантаження розкладу…", load_p: "За мить тут зʼявляться заняття.",
+      sub_gc: "Підписатися в Google Календарі", ics_all: "Усі заняття (.ics)", ics_mand: "Лише обовʼязкові (.ics)",
       prev_m: "Попередній місяць", next_m: "Наступний місяць",
-      now_until: (t) => `Зараз · до ${t}`, in_dur: (d) => `Через ${d}`, min: "хв", hr: "год",
+      now_until: (t) => `Зараз · до ${t}`, in_dur: (d) => `Через ${d}`, min: "хв", hr: "год", lect: "Викладачі:",
       days: { one: "день", few: "дні", many: "днів", other: "дня" }, classes: { one: "заняття", few: "заняття", many: "занять", other: "заняття" },
-      slots: { one: "слот", few: "слоти", many: "слотів", other: "слота" }, hits: { one: "збіг", few: "збіги", many: "збігів", other: "збігу" },
-      wk: "Тиждень", free_past: "Занять не було", free_day: "Вільний день", free_mand: "Обов’язкових занять немає.", free_none: "Цього дня нічого не заплановано.", next_lbl: "Наступне:",
-      list_none_h: "Більше занять немає", list_none_p: "В ev3nts поки нічого не заплановано.", more: "Показати ще",
-      none_h: "Нічого не знайдено", none_p: "Спробуйте частину назви, номер аудиторії або прізвище.",
-      cx_chip: "скасовано", cx_tag: "Скасовано", req_tag: "Обов’язково", opt_tag: "За бажанням", slots_each: (n, w, m) => `${n} ${w} по ${m} хв`,
-      close: "Закрити", req_for: "Обов’язково для:", to_gcal: "До Google Календаря", open_ev: "Відкрити в ev3nts",
-      theme_title: "Тема", theme_note: "«Авто» повторює тему телефона. Вибір зберігається на цьому пристрої.",
-      skins: { auto: "Авто", light: "Світла", dark: "Темна", pink: "Рожева", barbie: "Барбі", lavender: "Лаванда", mint: "М’ята", film: "Плівка", neon: "Неон" },
-      foot: (a, c) => `Розклад востаннє змінився ${a} · ${c} · ev3nts перевіряється кожні 2 години`, foot_err: (a, e) => ` · Остання перевірка (${a}) не вдалася: ${e}`,
+      slots: { one: "слот", few: "слоти", many: "слотів", other: "слота" }, hits: { one: "результат", few: "результати", many: "результатів", other: "результату" },
+      wk: "Тиждень", free_past: "Занять не було", free_day: "Вільний день", free_mand: "Обовʼязкових занять немає.", free_none: "Цього дня нічого не заплановано.", next_lbl: "Наступне:",
+      list_none_h: "Більше занять немає", list_none_p: "В ev3nts поки що нічого не заплановано.", more: "Показати ще",
+      none_h: "Нічого не знайдено", none_p: "Спробуйте ввести частину назви, номер аудиторії або прізвище.",
+      cx_chip: "скасовано", cx_tag: "Скасовано", req_tag: "Обовʼязково", opt_tag: "За бажанням", slots_each: (n, w, m) => `${n} ${w} по ${m} хв`,
+      close: "Закрити", req_for: "Обовʼязково для:", to_gcal: "Додати в календар", open_ev: "Відкрити в ev3nts",
+      theme_title: "Тема", theme_note: "«Авто» підлаштовується під тему телефону. Вибір зберігається на цьому пристрої.",
+      skins: { auto: "Авто", light: "Світла", dark: "Темна", pink: "Рожева", barbie: "Барбі", lavender: "Лаванда", mint: "Мʼята", film: "Плівка", neon: "Неон" },
+      foot: (a, c) => `Розклад востаннє змінено ${a} · ${c} · синхронізація з ev3nts кожні 2 години`, foot_err: (a, e) => ` · Остання перевірка (${a}) не вдалася: ${e}`,
       fail_h: "Не вдалося завантажити розклад", fail_p: "Перевірте інтернет і оновіть сторінку.",
     },
   };
   function detectLang() {
     for (const x of (navigator.languages?.length ? navigator.languages : [navigator.language || ""]).map(v => String(v).toLowerCase())) {
       if (x.startsWith("de")) return "de";
-      if (x.startsWith("uk") || x.startsWith("ru")) return "uk";
+      if (x.startsWith("uk")) return "uk";
       if (x.startsWith("en")) return "en";
     }
     return "en";
@@ -399,7 +400,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
   if (!LANGS[lang]) lang = detectLang();
   const t = (k, ...a) => { const v = T[lang][k] ?? T.en[k] ?? k; return typeof v === "function" ? v(...a) : v; };
   const pl = (n, k) => { const f = T[lang][k]; return f[new Intl.PluralRules(LANGS[lang].loc).select(n)] ?? f.other; };
-  const cnt = (n, k) => `${n} ${pl(n, k)}`;
+  const cnt = (n, k) => `${n} ${pl(n, k)}`;
   const cap = (x) => x ? x.charAt(0).toLocaleUpperCase(LANGS[lang].loc) + x.slice(1) : x;
   const FMT = {};
   const fmt = (o) => { const key = lang + JSON.stringify(o); return FMT[key] ||= new Intl.DateTimeFormat(LANGS[lang].loc, { timeZone: "UTC", ...o }); };
@@ -433,11 +434,11 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
     const y = new Date(Date.UTC(d.getUTCFullYear(), 0, 4));
     return 1 + Math.round(((d - y) / 864e5 - 3 + ((y.getUTCDay() + 6) % 7)) / 7);
   }
-  function dur(m) {
-    if (m < 60) return `${m} ${t("min")}`;
+  function dur(m, dative) {
+    if (m < 60) return `${m} ${t("min")}`;
     const h = Math.floor(m / 60), r = m % 60;
-    if (h < 24) return r ? `${h} ${t("hr")} ${r} ${t("min")}` : `${h} ${t("hr")}`;
-    const d = Math.round(h / 24); return cnt(d, "days");
+    if (h < 24) return r ? `${h} ${t("hr")} ${r} ${t("min")}` : `${h} ${t("hr")}`;
+    const d = Math.round(h / 24); return T[lang].days_dat && dative ? `${d} ${pl(d, "days_dat")}` : cnt(d, "days");
   }
 
   // ---------- data ----------
@@ -471,7 +472,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
     const today = now.slice(0, 10);
     $("today-n").textContent = dnum(today);
     const d = toD(S.sel);
-    $("month-txt").textContent = monthName(S.sel) + (d.getUTCFullYear() !== toD(today).getUTCFullYear() ? " " + d.getUTCFullYear() : "");
+    $("month-txt").innerHTML = esc(monthName(S.sel)) + (d.getUTCFullYear() !== toD(today).getUTCFullYear() ? ` <small>${d.getUTCFullYear()}</small>` : "");
     document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === S.view)));
     $("f-mand").setAttribute("aria-pressed", String(S.onlyMand));
     $("strip").hidden = S.view !== "day" || !!S.query;
@@ -514,7 +515,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
     const room = e.l?.length ? " · " + esc(e.l[0]) : "";
     return cur
       ? `<button class="nowcard" data-id="${e.i}"><span class="dot"></span><div><b>${esc(e.t)}</b><small>${t("now_until", e.e.slice(11))}${room}</small></div></button>`
-      : `<button class="nowcard" data-id="${e.i}"><span class="dot next"></span><div><b>${esc(e.t)}</b><small>${t("in_dur", dur(diffMin(e.s, now)))} · ${e.s.slice(11)}${room}</small></div></button>`;
+      : `<button class="nowcard" data-id="${e.i}"><span class="dot next"></span><div><b>${esc(e.t)}</b><small>${t("in_dur", dur(diffMin(e.s, now), true))} · ${e.s.slice(11)}${room}</small></div></button>`;
   }
   function renderDay(now) {
     const day = S.sel, today = now.slice(0, 10), evs = on(day);
@@ -602,7 +603,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
   };
   function gcal(e) {
     const f = (s) => s.replace(/[-:]/g, "") + "00";
-    const details = [e.u, e.m ? "Pflicht" : "Optional", e.p?.length ? "Dozent*innen: " + e.p.join(", ") : "", e.d || ""].filter(Boolean).join("\n");
+    const details = [e.u, e.m ? t("req_tag") : t("opt_tag"), e.p?.length ? t("lect") + " " + e.p.join(", ") : "", e.d || ""].filter(Boolean).join("\n");
     return "https://calendar.google.com/calendar/render?" + new URLSearchParams({ action: "TEMPLATE", text: e.t, dates: `${f(e.s)}/${f(e.e)}`, ctz: TZ, location: (e.l || []).join(", "), details });
   }
   let lastFocus = null;
@@ -689,6 +690,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
     $("gc-sub").textContent = t("sub_gc");
     $("ics-all").textContent = t("ics_all");
     $("ics-mand").textContent = t("ics_mand");
+    if (!S.data) $("month-txt").textContent = t("title");
     if ($("load-h")) { $("load-h").textContent = t("load_h"); $("load-p").textContent = t("load_p"); }
   }
   function openLangs() {
@@ -723,7 +725,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
     const now = nowStr();
     renderHeader(now);
     renderMini(now);
-    if (!S.data) return;
+    if (!S.data) { if (S.failed) $("main").innerHTML = `<div class="state"><h2>${t("fail_h")}</h2><p>${t("fail_p")}</p></div>`; return; }
     if (S.query) renderSearch(now);
     else if (S.view === "list") renderList(now);
     else renderDay(now);
@@ -810,7 +812,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.
       if (d.hash !== lastHash || d.checkedAt !== S.data?.checkedAt) { lastHash = d.hash; S.data = d; if (!$("sheet-root").innerHTML) render(); }
       if (first) { first = false; scrollToNow(); }
     } catch (err) {
-      if (!S.data) $("main").innerHTML = `<div class="state"><h2>${t("fail_h")}</h2><p>${t("fail_p")}</p></div>`;
+      if (!S.data) { S.failed = true; render(); }
     }
   }
   load();
