@@ -1,0 +1,57 @@
+name: Stundenplan aktualisieren
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stundenplan-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull schedule from ev3nts
+        env:
+          FA_USER: ${{ secrets.FA_USER }}
+          FA_PASS: ${{ secrets.FA_PASS }}
+        run: |
+          mkdir -p out
+          if [ -f data.json ]; then PREV="--prev data.json"; else PREV=""; fi
+          python3 sync.py --out out $PREV
+
+      - name: Update site files if the schedule changed
+        id: update
+        run: |
+          new=$(python3 -c "import json;print(json.load(open('out/db_payload.json'))['hash'])")
+          old=$( [ -f data.json ] && python3 -c "import json;print(json.load(open('data.json')).get('hash',''))" || echo "")
+          echo "old=$old new=$new"
+          if [ "$new" = "$old" ]; then
+            echo "Schedule unchanged, nothing to publish."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          cp out/db_payload.json data.json
+          cp out/Filmakademie-alle.ics out/Filmakademie-Pflicht.ics .
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        if: steps.update.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json Filmakademie-alle.ics Filmakademie-Pflicht.ics
+          git commit -m "Stundenplan aktualisiert ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
