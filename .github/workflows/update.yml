@@ -2,7 +2,8 @@ name: Stundenplan aktualisieren
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+    # Hourly at an off-peak minute: GitHub delays or drops scheduled runs at :00, so this keeps updates within ~2 hours.
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:
