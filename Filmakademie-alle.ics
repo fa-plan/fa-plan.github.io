@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fa-36224@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260921T110000
 DTEND;TZID=Europe/Berlin:20260921T130000
 SUMMARY:Studienjahreröffnung
@@ -39,7 +39,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38794@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260921T170000
 DTEND;TZID=Europe/Berlin:20260921T193000
 SUMMARY:ASTA stellt sich vor & Pat*innentreffen
@@ -52,7 +52,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36231@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260922T093000
 DTEND;TZID=Europe/Berlin:20260922T163000
 SUMMARY:VFX License // VFX Führerschein
@@ -67,7 +67,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36232@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260923T093000
 DTEND;TZID=Europe/Berlin:20260923T163000
 SUMMARY:VFX License // VFX Führerschein
@@ -82,7 +82,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36241@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260924T093000
 DTEND;TZID=Europe/Berlin:20260924T163000
 SUMMARY:Richtige und falsche Bilder
@@ -95,7 +95,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40088@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260924T120000
 DTEND;TZID=Europe/Berlin:20260924T170000
 SUMMARY:Coaching (optional)
@@ -108,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36242@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260925T093000
 DTEND;TZID=Europe/Berlin:20260925T163000
 SUMMARY:Richtige und falsche Bilder
@@ -121,7 +121,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36287@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260928T093000
 DTEND;TZID=Europe/Berlin:20260928T163000
 SUMMARY:Filmgeschichte 2
@@ -134,7 +134,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36288@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260929T093000
 DTEND;TZID=Europe/Berlin:20260929T163000
 SUMMARY:Filmgeschichte 2
@@ -147,7 +147,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39000@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260929T170000
 DTEND;TZID=Europe/Berlin:20260929T193000
 SUMMARY:Cine Classics (optional)
@@ -161,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37883@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260930T093000
 DTEND;TZID=Europe/Berlin:20260930T123000
 SUMMARY:Handling studentischer Projekte\, Urheber- und Leistungsschutzrecht
@@ -175,21 +175,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39744@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20260930T100000
-DTEND;TZID=Europe/Berlin:20260930T103000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\nDozent*innen: Jan Burda\n\nhttps://ev3nts.filmakademi
- e.de/user/student/?from=2026-09-30&to=2026-09-30
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37884@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260930T133000
 DTEND;TZID=Europe/Berlin:20260930T153000
 SUMMARY:ePRO\, eDispo & DiFipo
@@ -202,22 +189,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39751@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20260930T150000
-DTEND;TZID=Europe/Berlin:20260930T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n3 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-09-30
- &to=2026-09-30
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-38094@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20260930T153000
 DTEND;TZID=Europe/Berlin:20260930T183000
 SUMMARY:KickOff Zweitjahresprojekte
@@ -231,7 +204,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39774@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T093000
 DTEND;TZID=Europe/Berlin:20261001T101500
 SUMMARY:Case Study: Mimi und ich (Deutsch)
@@ -244,7 +217,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39775@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T103000
 DTEND;TZID=Europe/Berlin:20261001T111500
 SUMMARY:Alumni Case Study: Condenaditos: There Is No Manual
@@ -271,7 +244,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39779@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T113000
 DTEND;TZID=Europe/Berlin:20261001T121500
 SUMMARY:Alumni in der Streaming-Branche
@@ -285,7 +258,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39776@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T133000
 DTEND;TZID=Europe/Berlin:20261001T141500
 SUMMARY:Alumni Case Study: Woodblock - Going Spherical and Beyond
@@ -301,7 +274,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39777@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T143000
 DTEND;TZID=Europe/Berlin:20261001T151500
 SUMMARY:Alumni Case Study: Same Craft\, Different Business
@@ -320,7 +293,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40803@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T153000
 DTEND;TZID=Europe/Berlin:20261001T190000
 SUMMARY:Creative LÄND - Campus Connect (optional)
@@ -338,7 +311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40806@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261001T210000
 DTEND;TZID=Europe/Berlin:20261001T235900
 SUMMARY:Große Jubiläumsparty: 35 Jahre Filmakademie (optional)
@@ -351,7 +324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40807@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261002T110000
 DTEND;TZID=Europe/Berlin:20261002T190000
 SUMMARY:Open Campus: Open Ateliers und Werkschau (optional)
@@ -363,7 +336,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40808@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261002T170000
 DTEND;TZID=Europe/Berlin:20261002T190000
 SUMMARY:Screening "Schicksalsmomente der Republik – Wie ein Gericht das L
@@ -380,7 +353,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36301@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261005T100000
 DTEND;TZID=Europe/Berlin:20261005T133000
 SUMMARY:Grundlagen Arbeitssicherheit am Set von Film- und Medienproduktione
@@ -394,7 +367,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36302@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261005T143000
 DTEND;TZID=Europe/Berlin:20261005T170000
 SUMMARY:Vertragsgestaltung
@@ -407,7 +380,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36309@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261006T093000
 DTEND;TZID=Europe/Berlin:20261006T163000
 SUMMARY:Filmgeschichte 2 (1/3)
@@ -420,7 +393,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36310@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261007T093000
 DTEND;TZID=Europe/Berlin:20261007T163000
 SUMMARY:Filmgeschichte 2 (1/3)
@@ -432,63 +405,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39764@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261007T100000
-DTEND;TZID=Europe/Berlin:20261007T163000
-SUMMARY:VFX Beratung (optional)
-LOCATION:A0.06 Grading Suite
-DESCRIPTION:Optional\nDozent*innen: Juri Stanossek\, Alexandra Stautmeister
- \n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-07&to=2026-1
- 0-07
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39740@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261007T143000
-DTEND;TZID=Europe/Berlin:20261007T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n4 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-07
- &to=2026-10-07
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40384@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261008T093000
-DTEND;TZID=Europe/Berlin:20261008T123000
-SUMMARY:Reality Based – AI-World Building
-LOCATION:Extern
-DESCRIPTION:Pflicht\nDozent*innen: Timor Kardum\, Thomas Stammer\nPflicht f
- ür: A2\, BK4\, DA_SB2\n\nMeeting point: 09:30 underneath the tent\n\nThu\
- , 8 September 2026 – Morning\n\nData capture and film recording\n\n• C
- apturing a location in Ludwigsburg using scanning and photography\n\n• F
- ilm reconstruction of a selected camera shot\n\n• Interaction with props
-  using proxies\n\nThu\, 8 September 2026 – Afternoon\n\nProcessing and 3
- D reconstruction\n\n• Conversion of scan and photo data into 3D models\n
- \n• Analysis of practical examples from Studio Babelsberg’s AI Masterc
- lass\n\n----------------------\n\nFri\, 9 September 2026 – Morning\n\nIn
- tegration of the gameplay footage\n\n• Integration of the recorded gamep
- lay footage into the 3D models\n\n• Optional use of the LED wall in the 
- swimming pool\n\n• Technical support for motion control and Unreal integ
- ration\n\nFri\, 9 September 2026 – Afternoon\n\nCreative variations\n\n
- • Variations in the background\n\n• Adjusting the lighting design\n\n
- • Interaction with proxies and props\n\nhttps://ev3nts.filmakademie.de/u
- ser/student/?from=2026-10-08&to=2026-10-08
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40877@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261008T100000
 DTEND;TZID=Europe/Berlin:20261008T163000
 SUMMARY:Coaching (optional)
@@ -500,62 +418,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-41025@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261008T133000
-DTEND;TZID=Europe/Berlin:20261008T163000
-SUMMARY:Reality Based – AI-World Building
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Timor Kardum\, Thomas Stammer\nPflicht f
- ür: A2\, BK4\, DA_SB2\n\nMeeting point: 09:30 underneath the tent\n\nThu\
- , 8 September 2026 – Morning\n\nData capture and film recording\n\n• C
- apturing a location in Ludwigsburg using scanning and photography\n\n• F
- ilm reconstruction of a selected camera shot\n\n• Interaction with props
-  using proxies\n\nThu\, 8 September 2026 – Afternoon\n\nProcessing and 3
- D reconstruction\n\n• Conversion of scan and photo data into 3D models\n
- \n• Analysis of practical examples from Studio Babelsberg’s AI Masterc
- lass\n\n----------------------\n\nFri\, 9 September 2026 – Morning\n\nIn
- tegration of the gameplay footage\n\n• Integration of the recorded gamep
- lay footage into the 3D models\n\n• Optional use of the LED wall in the 
- swimming pool\n\n• Technical support for motion control and Unreal integ
- ration\n\nFri\, 9 September 2026 – Afternoon\n\nCreative variations\n\n
- • Variations in the background\n\n• Adjusting the lighting design\n\n
- • Interaction with proxies and props\n\nhttps://ev3nts.filmakademie.de/u
- ser/student/?from=2026-10-08&to=2026-10-08
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40978@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261009T093000
-DTEND;TZID=Europe/Berlin:20261009T163000
-SUMMARY:Reality Based – AI-World Building
-LOCATION:A1.15 Computer Lab\, BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Timor Kardum\, Thomas Stammer\nPflicht f
- ür: A2\, BK4\, DA_SB2\n\nMeeting point: 09:30 underneath the tent\n\nThu\
- , 8 September 2026 – Morning\n\nData capture and film recording\n\n• C
- apturing a location in Ludwigsburg using scanning and photography\n\n• F
- ilm reconstruction of a selected camera shot\n\n• Interaction with props
-  using proxies\n\nThu\, 8 September 2026 – Afternoon\n\nProcessing and 3
- D reconstruction\n\n• Conversion of scan and photo data into 3D models\n
- \n• Analysis of practical examples from Studio Babelsberg’s AI Masterc
- lass\n\n----------------------\n\nFri\, 9 September 2026 – Morning\n\nIn
- tegration of the gameplay footage\n\n• Integration of the recorded gamep
- lay footage into the 3D models\n\n• Optional use of the LED wall in the 
- swimming pool\n\n• Technical support for motion control and Unreal integ
- ration\n\nFri\, 9 September 2026 – Afternoon\n\nCreative variations\n\n
- • Variations in the background\n\n• Adjusting the lighting design\n\n
- • Interaction with proxies and props\n\nhttps://ev3nts.filmakademie.de/u
- ser/student/?from=2026-10-09&to=2026-10-09
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-38954@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261009T100000
 DTEND;TZID=Europe/Berlin:20261009T170000
 SUMMARY:Filmgeschichte 2 (2/2) - Geschichte der Neuen Medien
@@ -573,41 +437,24 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36339@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261012T093000
 DTEND;TZID=Europe/Berlin:20261012T113000
 SUMMARY:KI Themenwoche
 LOCATION:Filmgalerie Empfang
-DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\n\nÜbersic
- ht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit Cloudtools - o
- ffen für alle Interessierten\n\nMittwoch\, 14. und Donnerstag\, 15.10.202
- 6\n\nComfy UI - begrenzt auf 12 Plätze\, bitte einbuchen\n\nhttps://ev3nt
- s.filmakademie.de/user/student/?from=2026-10-12&to=2026-10-12
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40756@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261012T093000
-DTEND;TZID=Europe/Berlin:20261012T163000
-SUMMARY:Virtual Production Studio Onboarding
-LOCATION:BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Volker Helzle\, Simon Spielmann\, Jonas 
- Trottnow\nPflicht für: A2\n\nTAG 1\n\n9:30-12:00\n\nVP & Unreal basics\n\
- nTAG 1\n\n13:00-16:30\n\nEinführung Studio Technik\n\nTAG 2\n\n9:30-12:00
- \n\nNetzwerk Basics\n\nTAG 2\n\n13:00-16:30\n\nMotion Capture (MoCap) Einf
- ührung\n\nTAG 3\n\n9:30-16:30\n\nKamera Tracking\n\nTAG 4\n\n09:30-16:30\
- n\nFarbkalibrierung und Umgang mit LED Controller\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2026-10-12&to=2026-10-12
+DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
+ er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
+ Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
+ ag\, 15.10.2026\n\nComfy UI - begrenzt auf 12 Plätze\, Pflicht für R 2 A
+ nimation\, alle Interessierten bitte einbuchen\n\nhttps://ev3nts.filmakade
+ mie.de/user/student/?from=2026-10-12&to=2026-10-12
 CATEGORIES:Pflicht
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39772@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261012T100000
 DTEND;TZID=Europe/Berlin:20261012T110000
 SUMMARY:General Meeting Animationsinstitut students (optional)
@@ -621,57 +468,41 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40744@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261012T113000
 DTEND;TZID=Europe/Berlin:20261012T163000
 SUMMARY:KI Themenwoche
 LOCATION:Filmgalerie Empfang
-DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\n\nÜbersic
- ht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit Cloudtools - o
- ffen für alle Interessierten\n\nMittwoch\, 14. und Donnerstag\, 15.10.202
- 6\n\nComfy UI - begrenzt auf 12 Plätze\, bitte einbuchen\n\nhttps://ev3nt
- s.filmakademie.de/user/student/?from=2026-10-12&to=2026-10-12
+DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
+ er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
+ Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
+ ag\, 15.10.2026\n\nComfy UI - begrenzt auf 12 Plätze\, Pflicht für R 2 A
+ nimation\, alle Interessierten bitte einbuchen\n\nhttps://ev3nts.filmakade
+ mie.de/user/student/?from=2026-10-12&to=2026-10-12
 CATEGORIES:Pflicht
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36340@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261013T093000
 DTEND;TZID=Europe/Berlin:20261013T163000
 SUMMARY:KI Themenwoche
 LOCATION:Filmgalerie Empfang
-DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\n\nÜbersic
- ht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit Cloudtools - o
- ffen für alle Interessierten\n\nMittwoch\, 14. und Donnerstag\, 15.10.202
- 6\n\nComfy UI - begrenzt auf 12 Plätze\, bitte einbuchen\n\nhttps://ev3nt
- s.filmakademie.de/user/student/?from=2026-10-13&to=2026-10-13
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40757@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261013T093000
-DTEND;TZID=Europe/Berlin:20261013T163000
-SUMMARY:Virtual Production Studio Onboarding
-LOCATION:BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Volker Helzle\, Simon Spielmann\, Jonas 
- Trottnow\nPflicht für: A2\n\nTAG 1\n\n9:30-12:00\n\nVP & Unreal basics\n\
- nTAG 1\n\n13:00-16:30\n\nEinführung Studio Technik\n\nTAG 2\n\n9:30-12:00
- \n\nNetzwerk Basics\n\nTAG 2\n\n13:00-16:30\n\nMotion Capture (MoCap) Einf
- ührung\n\nTAG 3\n\n9:30-16:30\n\nKamera Tracking\n\nTAG 4\n\n09:30-16:30\
- n\nFarbkalibrierung und Umgang mit LED Controller\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2026-10-13&to=2026-10-13
+DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
+ er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
+ Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
+ ag\, 15.10.2026\n\nComfy UI - begrenzt auf 12 Plätze\, Pflicht für R 2 A
+ nimation\, alle Interessierten bitte einbuchen\n\nhttps://ev3nts.filmakade
+ mie.de/user/student/?from=2026-10-13&to=2026-10-13
 CATEGORIES:Pflicht
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40645@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261013T170000
 DTEND;TZID=Europe/Berlin:20261013T201500
 SUMMARY:Game and Talk: Disco Elysium (optional)
@@ -684,82 +515,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36341@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261014T093000
 DTEND;TZID=Europe/Berlin:20261014T163000
 SUMMARY:KI Themenwoche
-LOCATION:Filmgalerie Empfang
-DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\n\nÜbersic
- ht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit Cloudtools - o
- ffen für alle Interessierten\n\nMittwoch\, 14. und Donnerstag\, 15.10.202
- 6\n\nComfy UI - begrenzt auf 12 Plätze\, bitte einbuchen\n\nhttps://ev3nt
- s.filmakademie.de/user/student/?from=2026-10-14&to=2026-10-14
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40758@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261014T093000
-DTEND;TZID=Europe/Berlin:20261014T163000
-SUMMARY:Virtual Production Studio Onboarding
-LOCATION:BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Volker Helzle\, Simon Spielmann\, Jonas 
- Trottnow\nPflicht für: A2\n\nTAG 1\n\n9:30-12:00\n\nVP & Unreal basics\n\
- nTAG 1\n\n13:00-16:30\n\nEinführung Studio Technik\n\nTAG 2\n\n9:30-12:00
- \n\nNetzwerk Basics\n\nTAG 2\n\n13:00-16:30\n\nMotion Capture (MoCap) Einf
- ührung\n\nTAG 3\n\n9:30-16:30\n\nKamera Tracking\n\nTAG 4\n\n09:30-16:30\
- n\nFarbkalibrierung und Umgang mit LED Controller\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2026-10-14&to=2026-10-14
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-37671@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261014T100000
-DTEND;TZID=Europe/Berlin:20261014T120000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n4 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-14
- &to=2026-10-14
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-37419@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261014T100000
-DTEND;TZID=Europe/Berlin:20261014T163000
-SUMMARY:Comfy UI Einführung
 LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Nira Bozkurt\nPflicht für: A2\n\nhttps:
- //ev3nts.filmakademie.de/user/student/?from=2026-10-14&to=2026-10-14
+DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
+ er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
+ Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
+ ag\, 15.10.2026\n\nComfy UI - begrenzt auf 12 Plätze\, Pflicht für R 2 A
+ nimation\, alle Interessierten bitte einbuchen\n\nhttps://ev3nts.filmakade
+ mie.de/user/student/?from=2026-10-14&to=2026-10-14
 CATEGORIES:Pflicht
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39757@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261014T130000
-DTEND;TZID=Europe/Berlin:20261014T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n7 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-14
- &to=2026-10-14
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39004@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261014T193000
 DTEND;TZID=Europe/Berlin:20261014T213000
 SUMMARY:Cine Classics (optional)
@@ -772,54 +545,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36342@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261015T093000
 DTEND;TZID=Europe/Berlin:20261015T163000
 SUMMARY:KI Themenwoche
-LOCATION:Filmgalerie Empfang
-DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\n\nÜbersic
- ht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit Cloudtools - o
- ffen für alle Interessierten\n\nMittwoch\, 14. und Donnerstag\, 15.10.202
- 6\n\nComfy UI - begrenzt auf 12 Plätze\, bitte einbuchen\n\nhttps://ev3nt
- s.filmakademie.de/user/student/?from=2026-10-15&to=2026-10-15
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40759@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261015T093000
-DTEND;TZID=Europe/Berlin:20261015T163000
-SUMMARY:Virtual Production Studio Onboarding
-LOCATION:BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Volker Helzle\, Simon Spielmann\, Jonas 
- Trottnow\nPflicht für: A2\n\nTAG 1\n\n9:30-12:00\n\nVP & Unreal basics\n\
- nTAG 1\n\n13:00-16:30\n\nEinführung Studio Technik\n\nTAG 2\n\n9:30-12:00
- \n\nNetzwerk Basics\n\nTAG 2\n\n13:00-16:30\n\nMotion Capture (MoCap) Einf
- ührung\n\nTAG 3\n\n9:30-16:30\n\nKamera Tracking\n\nTAG 4\n\n09:30-16:30\
- n\nFarbkalibrierung und Umgang mit LED Controller\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2026-10-15&to=2026-10-15
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-37418@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261015T100000
-DTEND;TZID=Europe/Berlin:20261015T163000
-SUMMARY:Comfy UI Einführung
 LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Nira Bozkurt\nPflicht für: A2\n\nhttps:
- //ev3nts.filmakademie.de/user/student/?from=2026-10-15&to=2026-10-15
+DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
+ er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
+ Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
+ ag\, 15.10.2026\n\nComfy UI - begrenzt auf 12 Plätze\, Pflicht für R 2 A
+ nimation\, alle Interessierten bitte einbuchen\n\nhttps://ev3nts.filmakade
+ mie.de/user/student/?from=2026-10-15&to=2026-10-15
 CATEGORIES:Pflicht
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38955@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261016T093000
 DTEND;TZID=Europe/Berlin:20261016T163000
 SUMMARY:Filmgeschichte 2 (2/2) - Geschichte der Neuen Medien
@@ -837,7 +580,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40386@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261019T093000
 DTEND;TZID=Europe/Berlin:20261019T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -853,21 +596,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-38870@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261019T100000
-DTEND;TZID=Europe/Berlin:20261019T163000
-SUMMARY:SEW: Workflow 101 & Project Management
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-10-19&to=2026-10-19
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-33892@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261020T100000
 DTEND;TZID=Europe/Berlin:20261020T163000
 SUMMARY:Self Portrait
@@ -879,35 +609,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40072@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261020T140000
-DTEND;TZID=Europe/Berlin:20261020T170000
-SUMMARY:Fundamentals of CG Lighting and Color Management
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-10-20&to=2026-10-20
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39789@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261021T100000
-DTEND;TZID=Europe/Berlin:20261021T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-21
- &to=2026-10-21
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-33893@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261021T100000
 DTEND;TZID=Europe/Berlin:20261021T163000
 SUMMARY:Self Portrait
@@ -919,34 +622,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-38874@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261021T100000
-DTEND;TZID=Europe/Berlin:20261021T163000
-SUMMARY:VFX Set Supervision
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-10-21&to=2026-10-21
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39794@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261021T133000
-DTEND;TZID=Europe/Berlin:20261021T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-21
- &to=2026-10-21
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-33894@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261022T100000
 DTEND;TZID=Europe/Berlin:20261022T163000
 SUMMARY:Self Portrait
@@ -958,33 +635,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-38875@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261022T100000
-DTEND;TZID=Europe/Berlin:20261022T163000
-SUMMARY:VFX Set Supervision
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-10-22&to=2026-10-22
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-36359@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261023T090000
-DTEND;TZID=Europe/Berlin:20261023T120000
-SUMMARY:KLAUSUR Filmgeschichte 2
-LOCATION:Albrecht-Ade-Studio
-DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
- 26-10-23&to=2026-10-23
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-39771@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261023T140000
 DTEND;TZID=Europe/Berlin:20261023T170000
 SUMMARY:Wandernachmittag (optional)
@@ -997,7 +649,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39383@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261026T093000
 DTEND;TZID=Europe/Berlin:20261026T163000
 SUMMARY:Offener Drehbuchmontag (optional)
@@ -1011,7 +663,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40422@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261026T093000
 DTEND;TZID=Europe/Berlin:20261026T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1027,36 +679,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-38876@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261026T100000
-DTEND;TZID=Europe/Berlin:20261026T163000
-SUMMARY:SEW: Kick-off und LED Tech Intro
-LOCATION:BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Julian Wagner\nPflicht fü
- r: A2\, BK4\, DA_SB2\n\nhttps://ev3nts.filmakademie.de/user/student/?from=
- 2026-10-26&to=2026-10-26
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-38878@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261027T100000
-DTEND;TZID=Europe/Berlin:20261027T123000
-SUMMARY:SEW: Input Production Design
-LOCATION:BAD1.01 VP
-DESCRIPTION:Pflicht\nDozent*innen: Julian Wagner\nPflicht für: A2\, BK4\, 
- DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-
- 10-27&to=2026-10-27
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37700@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261027T100000
 DTEND;TZID=Europe/Berlin:20261027T163000
 SUMMARY:Visual experiments
@@ -1068,36 +692,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39800@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261028T100000
-DTEND;TZID=Europe/Berlin:20261028T120000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n4 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-28
- &to=2026-10-28
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40073@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261028T100000
-DTEND;TZID=Europe/Berlin:20261028T163000
-SUMMARY:SEW: Exkursion
-LOCATION:Extern
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Julian Wagner\nPflicht fü
- r: A2\, BK4\, DA_SB2\n\nhttps://ev3nts.filmakademie.de/user/student/?from=
- 2026-10-28&to=2026-10-28
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37701@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261028T100000
 DTEND;TZID=Europe/Berlin:20261028T163000
 SUMMARY:Visual experiments
@@ -1109,22 +705,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39805@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261028T133000
-DTEND;TZID=Europe/Berlin:20261028T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-10-28
- &to=2026-10-28
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37702@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261029T100000
 DTEND;TZID=Europe/Berlin:20261029T163000
 SUMMARY:Visual experiments
@@ -1137,7 +719,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37703@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261030T100000
 DTEND;TZID=Europe/Berlin:20261030T163000
 SUMMARY:Visual experiments
@@ -1150,7 +732,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40423@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261102T093000
 DTEND;TZID=Europe/Berlin:20261102T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1167,7 +749,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37745@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261103T100000
 DTEND;TZID=Europe/Berlin:20261103T123000
 SUMMARY:Einführung Medianet
@@ -1180,24 +762,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40973@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261103T140000
-DTEND;TZID=Europe/Berlin:20261103T150000
-SUMMARY:Coaching Stipendien/Förderungen/Art Residencies (optional)
-LOCATION:Zoom
-DESCRIPTION:Studienleitung\nOptional\nDozent*innen: Ruth Olschan\n\nDer Zoo
- mlink ist:\n\nZoom-Meeting beitreten\n\nhttps://zoom.us/j/93149812623?pwd=
- OHZza21TdFBIQkorVTc3WExYRmw0Zz09\n\nMeeting-ID: 931 4981 2623\n\nKenncode:
-  3a25AL\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-03&to
- =2026-11-03
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40974@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261103T151000
 DTEND;TZID=Europe/Berlin:20261103T161000
 SUMMARY:Coaching Stipendien/Förderungen/Art Residencies (optional)
@@ -1212,22 +778,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39811@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261104T100000
-DTEND;TZID=Europe/Berlin:20261104T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-04
- &to=2026-11-04
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40971@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261104T111000
 DTEND;TZID=Europe/Berlin:20261104T121000
 SUMMARY:Coaching Stipendien/Förderungen/Art Residencies (optional)
@@ -1242,22 +794,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39816@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261104T133000
-DTEND;TZID=Europe/Berlin:20261104T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-04
- &to=2026-11-04
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37099@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261106T100000
 DTEND;TZID=Europe/Berlin:20261106T160000
 SUMMARY:AKA Pitching
@@ -1270,7 +808,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38960@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261106T160000
 DTEND;TZID=Europe/Berlin:20261106T173000
 SUMMARY:Open Space (optional)
@@ -1283,7 +821,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40424@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261109T093000
 DTEND;TZID=Europe/Berlin:20261109T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1299,129 +837,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-38880@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261109T100000
-DTEND;TZID=Europe/Berlin:20261109T123000
-SUMMARY:SEW: Milestone 1
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2026-11-09&to=2026-11-09
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40077@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261109T133000
-DTEND;TZID=Europe/Berlin:20261109T163000
-SUMMARY:SEW: Project Briefing
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Julian Wagner\nPflicht fü
- r: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmakademie.de/user/stude
- nt/?from=2026-11-09&to=2026-11-09
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39564@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261110T100000
-DTEND;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Modeling (optional)
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Optional\nDozent*innen: Marc Reuter\n\nhttps://ev3nts.filmakade
- mie.de/user/student/?from=2026-11-10&to=2026-11-10
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40078@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261110T100000
-DTEND;TZID=Europe/Berlin:20261110T163000
-SUMMARY:Projekttag
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Julian Wagner\nPflicht fü
- r: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmakademie.de/user/stude
- nt/?from=2026-11-10&to=2026-11-10
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39822@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261111T100000
-DTEND;TZID=Europe/Berlin:20261111T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-11
- &to=2026-11-11
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40934@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261111T100000
-DTEND;TZID=Europe/Berlin:20261111T163000
-SUMMARY:Modeling (optional)
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Optional\nDozent*innen: Marc Reuter\n\nhttps://ev3nts.filmakade
- mie.de/user/student/?from=2026-11-11&to=2026-11-11
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39827@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261111T133000
-DTEND;TZID=Europe/Berlin:20261111T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-11
- &to=2026-11-11
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40202@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261111T133000
-DTEND;TZID=Europe/Berlin:20261111T163000
-SUMMARY:Pipeline 101 advanced (optional)
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Optional\nDozent*innen: Paul Golter\nPflicht für: DA_TD1\n\nht
- tps://ev3nts.filmakademie.de/user/student/?from=2026-11-11&to=2026-11-11
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40080@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261112T100000
-DTEND;TZID=Europe/Berlin:20261112T163000
-SUMMARY:Concept Illustrations
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Pflicht\nPflicht für: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev
- 3nts.filmakademie.de/user/student/?from=2026-11-12&to=2026-11-12
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-36506@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261113T093000
 DTEND;TZID=Europe/Berlin:20261113T123000
 SUMMARY:Green Producing@FABW (optional)
@@ -1435,7 +852,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39384@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261116T093000
 DTEND;TZID=Europe/Berlin:20261116T163000
 SUMMARY:Offener Drehbuchmontag (optional)
@@ -1449,7 +866,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40425@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261116T093000
 DTEND;TZID=Europe/Berlin:20261116T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1466,7 +883,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37715@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261117T100000
 DTEND;TZID=Europe/Berlin:20261117T163000
 SUMMARY:Storyboarding Workshop
@@ -1478,35 +895,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39833@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261118T100000
-DTEND;TZID=Europe/Berlin:20261118T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-18
- &to=2026-11-18
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-38885@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261118T100000
-DTEND;TZID=Europe/Berlin:20261118T163000
-SUMMARY:SEW: Unreal Basics
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-11-18&to=2026-11-18
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37714@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 DTEND;TZID=Europe/Berlin:20261118T163000
 SUMMARY:Storyboarding Workshop
@@ -1518,22 +908,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39838@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261118T133000
-DTEND;TZID=Europe/Berlin:20261118T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-18
- &to=2026-11-18
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37499@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261119T093000
 DTEND;TZID=Europe/Berlin:20261119T163000
 SUMMARY:ANIMATIC Workshop
@@ -1546,21 +922,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40081@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261119T100000
-DTEND;TZID=Europe/Berlin:20261119T163000
-SUMMARY:SEW: VP Basics
-LOCATION:A0.13 Seminarraum
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-11-19&to=2026-11-19
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37501@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 DTEND;TZID=Europe/Berlin:20261119T190000
 SUMMARY:Meet and Greet
@@ -1573,7 +936,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39001@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 DTEND;TZID=Europe/Berlin:20261119T193000
 SUMMARY:Cine Classics (optional)
@@ -1587,7 +950,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37500@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261120T093000
 DTEND;TZID=Europe/Berlin:20261120T163000
 SUMMARY:ANIMATIC Workshop
@@ -1600,21 +963,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40082@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261120T100000
-DTEND;TZID=Europe/Berlin:20261120T163000
-SUMMARY:SEW: VP Basics
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nhttps:/
- /ev3nts.filmakademie.de/user/student/?from=2026-11-20&to=2026-11-20
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40426@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261123T093000
 DTEND;TZID=Europe/Berlin:20261123T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1630,22 +980,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40083@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261123T100000
-DTEND;TZID=Europe/Berlin:20261123T163000
-SUMMARY:Studio Lighting
-LOCATION:Kuhn-Studio
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\nPflicht
-  für: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmakademie.de/user/s
- tudent/?from=2026-11-23&to=2026-11-23
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37554@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261124T100000
 DTEND;TZID=Europe/Berlin:20261124T163000
 SUMMARY:Character Design
@@ -1658,50 +994,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40084@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261124T100000
-DTEND;TZID=Europe/Berlin:20261124T163000
-SUMMARY:Fundamentals of Comp & Keying
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Jan Bu
- rda\nPflicht für: A2\, BK4\, QS_BK4\n\nhttps://ev3nts.filmakademie.de/use
- r/student/?from=2026-11-24&to=2026-11-24
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39844@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261125T100000
-DTEND;TZID=Europe/Berlin:20261125T120000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n4 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-25
- &to=2026-11-25
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40085@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261125T100000
-DTEND;TZID=Europe/Berlin:20261125T123000
-SUMMARY:Milestone II
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2026-11-25&to=2026-11-25
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37555@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261125T100000
 DTEND;TZID=Europe/Berlin:20261125T163000
 SUMMARY:Mentoring Character Design (optional)
@@ -1713,36 +1007,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39849@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261125T133000
-DTEND;TZID=Europe/Berlin:20261125T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11-25
- &to=2026-11-25
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40086@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261125T133000
-DTEND;TZID=Europe/Berlin:20261125T163000
-SUMMARY:Previs\, Techvis\, Animatic
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\, BK4\, DA
- _SB2\, QS_BK4\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-11
- -25&to=2026-11-25
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-38965@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261126T170000
 DTEND;TZID=Europe/Berlin:20261126T183000
 SUMMARY:Internationale Programme: Vorstellung (optional)
@@ -1755,7 +1021,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39385@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261130T093000
 DTEND;TZID=Europe/Berlin:20261130T163000
 SUMMARY:Offener Drehbuchmontag (optional)
@@ -1769,7 +1035,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40427@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261130T093000
 DTEND;TZID=Europe/Berlin:20261130T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1786,7 +1052,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40428@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261201T093000
 DTEND;TZID=Europe/Berlin:20261201T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1802,36 +1068,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39855@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261202T100000
-DTEND;TZID=Europe/Berlin:20261202T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-02
- &to=2026-12-02
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39860@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261202T133000
-DTEND;TZID=Europe/Berlin:20261202T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-02
- &to=2026-12-02
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40450@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261207T093000
 DTEND;TZID=Europe/Berlin:20261207T163000
 SUMMARY:R2A Mistone 1 - Animatic Presentation WIP
@@ -1847,7 +1085,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40623@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261208T170000
 DTEND;TZID=Europe/Berlin:20261208T210000
 SUMMARY:Weihnachtsmarkt AI\, Asta (optional)
@@ -1859,22 +1097,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39866@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261209T100000
-DTEND;TZID=Europe/Berlin:20261209T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-09
- &to=2026-12-09
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-41026@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T123000
 SUMMARY:Basics der Arbeit 1 - 4
@@ -1887,36 +1111,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39871@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261209T133000
-DTEND;TZID=Europe/Berlin:20261209T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-09
- &to=2026-12-09
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40354@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261210T093000
-DTEND;TZID=Europe/Berlin:20261210T163000
-SUMMARY:VFX Postproduktion / Verknüpfung Prozesse VFX und AI
-LOCATION:MET2.01
-DESCRIPTION:Pflicht\nDozent*innen: Yacoob Essack\nPflicht für: A2\, DA_AEP
- 2\, QS_Rwer3\, QS_WP3\, Rwer2\, Rwer3\, WP3\n\nhttps://ev3nts.filmakademie
- .de/user/student/?from=2026-12-10&to=2026-12-10
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40430@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261214T093000
 DTEND;TZID=Europe/Berlin:20261214T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -1932,36 +1128,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39877@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261216T100000
-DTEND;TZID=Europe/Berlin:20261216T120000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n4 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-16
- &to=2026-12-16
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39882@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20261216T133000
-DTEND;TZID=Europe/Berlin:20261216T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-16
- &to=2026-12-16
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-39005@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261216T193000
 DTEND;TZID=Europe/Berlin:20261216T213000
 SUMMARY:Cine Classics (optional)
@@ -1974,7 +1142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37436@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261217T093000
 DTEND;TZID=Europe/Berlin:20261217T223000
 SUMMARY:Tage des Films
@@ -1987,7 +1155,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36326@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261217T163000
 DTEND;TZID=Europe/Berlin:20261217T183000
 SUMMARY:Glühwein unterm Zelt (optional)
@@ -2002,7 +1170,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37437@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20261218T093000
 DTEND;TZID=Europe/Berlin:20261218T183000
 SUMMARY:Tage des Films
@@ -2015,7 +1183,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40459@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270111T093000
 DTEND;TZID=Europe/Berlin:20270111T163000
 SUMMARY:R2A Seminar & Menotring
@@ -2031,34 +1199,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39295@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270111T140000
-DTEND;TZID=Europe/Berlin:20270111T160000
-SUMMARY:Im Anschluss ans Plenum: Treffen mit 2. Jahr Animationsinstitut
-DESCRIPTION:Pflicht\nPflicht für: A2\, Rwer2\n\nhttps://ev3nts.filmakademi
- e.de/user/student/?from=2027-01-11&to=2027-01-11
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39921@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270113T100000
-DTEND;TZID=Europe/Berlin:20270113T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-13
- &to=2027-01-13
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-41027@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270113T100000
 DTEND;TZID=Europe/Berlin:20270113T123000
 SUMMARY:Basics der Arbeit 1 - 4
@@ -2071,22 +1213,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39926@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270113T133000
-DTEND;TZID=Europe/Berlin:20270113T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-13
- &to=2027-01-13
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-37949@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270114T093000
 DTEND;TZID=Europe/Berlin:20270114T163000
 SUMMARY:Einführung: Montage/Schnitt - Postproduction Workflows
@@ -2099,7 +1227,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37950@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270114T170000
 DTEND;TZID=Europe/Berlin:20270114T190000
 SUMMARY:Storyteller's Programm (optional)
@@ -2112,7 +1240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37961@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270115T093000
 DTEND;TZID=Europe/Berlin:20270115T163000
 SUMMARY:Postproduktion an der FABW: Postproduction Workflows
@@ -2126,7 +1254,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40431@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270118T093000
 DTEND;TZID=Europe/Berlin:20270118T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2142,36 +1270,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39932@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270120T100000
-DTEND;TZID=Europe/Berlin:20270120T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-20
- &to=2027-01-20
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39937@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270120T133000
-DTEND;TZID=Europe/Berlin:20270120T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-20
- &to=2027-01-20
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40811@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270120T170000
 DTEND;TZID=Europe/Berlin:20270120T190000
 SUMMARY:Pitching 2. Jahre-Projekte Werbefilm und Animationsfilm.
@@ -2184,7 +1284,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37100@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270122T100000
 DTEND;TZID=Europe/Berlin:20270122T160000
 SUMMARY:AKA Pitching
@@ -2197,7 +1297,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38961@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270122T160000
 DTEND;TZID=Europe/Berlin:20270122T173000
 SUMMARY:Open Space (optional)
@@ -2210,7 +1310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39386@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270125T093000
 DTEND;TZID=Europe/Berlin:20270125T163000
 SUMMARY:Offener Drehbuchmontag (optional)
@@ -2224,7 +1324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40464@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270126T093000
 DTEND;TZID=Europe/Berlin:20270126T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2240,36 +1340,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39943@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270127T100000
-DTEND;TZID=Europe/Berlin:20270127T120000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n4 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-27
- &to=2027-01-27
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39948@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270127T133000
-DTEND;TZID=Europe/Berlin:20270127T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-27
- &to=2027-01-27
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-39002@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270128T170000
 DTEND;TZID=Europe/Berlin:20270128T193000
 SUMMARY:Cine Classics (optional)
@@ -2283,7 +1355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40432@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270201T093000
 DTEND;TZID=Europe/Berlin:20270201T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2299,36 +1371,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39954@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270203T100000
-DTEND;TZID=Europe/Berlin:20270203T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-03
- &to=2027-02-03
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39959@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270203T133000
-DTEND;TZID=Europe/Berlin:20270203T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-03
- &to=2027-02-03
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-39387@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270208T093000
 DTEND;TZID=Europe/Berlin:20270208T163000
 SUMMARY:Offener Drehbuchmontag (optional)
@@ -2342,7 +1386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40433@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270208T093000
 DTEND;TZID=Europe/Berlin:20270208T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2358,50 +1402,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-36744@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270208T100000
-DTEND;TZID=Europe/Berlin:20270208T163000
-SUMMARY:Test und Dreh SEW
-LOCATION:Kuhn-Studio
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, SZB\n\nhttps://ev3nts.filmakade
- mie.de/user/student/?from=2027-02-08&to=2027-02-08
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-36745@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270209T100000
-DTEND;TZID=Europe/Berlin:20270209T163000
-SUMMARY:Test und Dreh SEW
-LOCATION:Kuhn-Studio
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, SZB\n\nhttps://ev3nts.filmakade
- mie.de/user/student/?from=2027-02-09&to=2027-02-09
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39965@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270210T100000
-DTEND;TZID=Europe/Berlin:20270210T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-10
- &to=2027-02-10
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-41028@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270210T100000
 DTEND;TZID=Europe/Berlin:20270210T123000
 SUMMARY:Basics der Arbeit 1 - 4
@@ -2414,50 +1416,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-36746@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270210T100000
-DTEND;TZID=Europe/Berlin:20270210T163000
-SUMMARY:Test und Dreh SEW
-LOCATION:Kuhn-Studio
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, SZB\n\nhttps://ev3nts.filmakade
- mie.de/user/student/?from=2027-02-10&to=2027-02-10
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39970@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270210T133000
-DTEND;TZID=Europe/Berlin:20270210T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-10
- &to=2027-02-10
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-36747@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270211T100000
-DTEND;TZID=Europe/Berlin:20270211T163000
-SUMMARY:Test und Dreh SEW
-LOCATION:Kuhn-Studio
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, SZB\n\nhttps://ev3nts.filmakade
- mie.de/user/student/?from=2027-02-11&to=2027-02-11
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40434@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270215T093000
 DTEND;TZID=Europe/Berlin:20270215T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2473,36 +1433,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-39976@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270217T100000
-DTEND;TZID=Europe/Berlin:20270217T123000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n5 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-17
- &to=2027-02-17
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-39981@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270217T133000
-DTEND;TZID=Europe/Berlin:20270217T163000
-SUMMARY:VFX Sprechstunde (optional)
-LOCATION:A2.31 Besprechungsraum
-DESCRIPTION:Optional\n6 Termine à 30 Min. (einzeln buchbar)\nDozent*innen:
-  Jan Burda\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-17
- &to=2027-02-17
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-39388@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270222T093000
 DTEND;TZID=Europe/Berlin:20270222T163000
 SUMMARY:Offener Drehbuchmontag (optional)
@@ -2516,7 +1448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38117@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270222T100000
 DTEND;TZID=Europe/Berlin:20270222T123000
 SUMMARY:Semesterpräsentationen Animation 2
@@ -2529,36 +1461,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40089@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270222T140000
-DTEND;TZID=Europe/Berlin:20270222T163000
-SUMMARY:SEW Milestone V: Picture Lock
-LOCATION:A0.06 Grading Suite
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2027-02-22&to=2027-02-22
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-40090@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270223T100000
-DTEND;TZID=Europe/Berlin:20270223T163000
-SUMMARY:Post Workflow
-LOCATION:A1.15 Computer Lab
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\nPflicht für: A2\n\nFrom Ed
- iting to VFX to grading\n\nhttps://ev3nts.filmakademie.de/user/student/?fr
- om=2027-02-23&to=2027-02-23
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-39006@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270303T193000
 DTEND;TZID=Europe/Berlin:20270303T213000
 SUMMARY:Cine Classics (optional)
@@ -2571,7 +1475,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37936@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270405T093000
 DTEND;TZID=Europe/Berlin:20270405T163000
 SUMMARY:SoSe Auftakt: Mind & Body
@@ -2584,7 +1488,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37937@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270406T093000
 DTEND;TZID=Europe/Berlin:20270406T163000
 SUMMARY:KI
@@ -2597,7 +1501,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39125@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270407T093000
 DTEND;TZID=Europe/Berlin:20270407T163000
 SUMMARY:KI
@@ -2610,7 +1514,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38370@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270407T093000
 DTEND;TZID=Europe/Berlin:20270407T163000
 SUMMARY:Sequenzanalyse (optional)
@@ -2623,7 +1527,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38369@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270408T093000
 DTEND;TZID=Europe/Berlin:20270408T163000
 SUMMARY:Sequenzanalyse (optional)
@@ -2636,7 +1540,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40435@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270412T093000
 DTEND;TZID=Europe/Berlin:20270412T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2653,7 +1557,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41029@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270414T100000
 DTEND;TZID=Europe/Berlin:20270414T123000
 SUMMARY:Basics der Arbeit 1 - 4
@@ -2667,7 +1571,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37101@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270416T100000
 DTEND;TZID=Europe/Berlin:20270416T160000
 SUMMARY:AKA Pitching
@@ -2680,7 +1584,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38962@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270416T160000
 DTEND;TZID=Europe/Berlin:20270416T173000
 SUMMARY:Open Space (optional)
@@ -2693,7 +1597,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40436@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270419T093000
 DTEND;TZID=Europe/Berlin:20270419T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2710,7 +1614,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39007@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270421T193000
 DTEND;TZID=Europe/Berlin:20270421T213000
 SUMMARY:Cine Classics (optional)
@@ -2722,22 +1626,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-40091@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270422T140000
-DTEND;TZID=Europe/Berlin:20270422T163000
-SUMMARY:SEW: Milestone VI - Final Delivery
-LOCATION:A0.06 Grading Suite
-DESCRIPTION:Pflicht\nDozent*innen: Marc Angele\, Matthias Bolliger\, Julian
-  Wagner\nPflicht für: A2\, BK4\, DA_SB2\, QS_BK4\n\nhttps://ev3nts.filmak
- ademie.de/user/student/?from=2027-04-22&to=2027-04-22
-CATEGORIES:Pflicht
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40437@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270426T093000
 DTEND;TZID=Europe/Berlin:20270426T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2754,7 +1644,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38126@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270427T100000
 DTEND;TZID=Europe/Berlin:20270427T163000
 SUMMARY:FMX 2027
@@ -2767,7 +1657,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38127@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270428T100000
 DTEND;TZID=Europe/Berlin:20270428T163000
 SUMMARY:FMX 2027
@@ -2780,7 +1670,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38128@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270429T100000
 DTEND;TZID=Europe/Berlin:20270429T163000
 SUMMARY:FMX 2027
@@ -2793,7 +1683,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38129@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270430T100000
 DTEND;TZID=Europe/Berlin:20270430T163000
 SUMMARY:FMX 2027
@@ -2806,7 +1696,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40438@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270503T093000
 DTEND;TZID=Europe/Berlin:20270503T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2823,7 +1713,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40439@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270510T093000
 DTEND;TZID=Europe/Berlin:20270510T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2840,7 +1730,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39003@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270520T170000
 DTEND;TZID=Europe/Berlin:20270520T193000
 SUMMARY:Cine Classics (optional)
@@ -2854,7 +1744,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37102@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270521T100000
 DTEND;TZID=Europe/Berlin:20270521T160000
 SUMMARY:AKA Pitching
@@ -2867,7 +1757,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38963@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270521T160000
 DTEND;TZID=Europe/Berlin:20270521T173000
 SUMMARY:Open Space (optional)
@@ -2880,7 +1770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40456@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270525T093000
 DTEND;TZID=Europe/Berlin:20270525T163000
 SUMMARY:R2A Milestone 4 - Rough Animation Presenation
@@ -2896,7 +1786,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40441@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270531T093000
 DTEND;TZID=Europe/Berlin:20270531T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2913,7 +1803,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37943@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270604T093000
 DTEND;TZID=Europe/Berlin:20270604T163000
 SUMMARY:ActionDesign Workshop (optional)
@@ -2927,7 +1817,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40442@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270607T093000
 DTEND;TZID=Europe/Berlin:20270607T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2944,7 +1834,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40443@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270614T093000
 DTEND;TZID=Europe/Berlin:20270614T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2961,7 +1851,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40444@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270621T093000
 DTEND;TZID=Europe/Berlin:20270621T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -2978,7 +1868,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39008@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270623T193000
 DTEND;TZID=Europe/Berlin:20270623T213000
 SUMMARY:Cine Classics (optional)
@@ -2991,7 +1881,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40445@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270628T093000
 DTEND;TZID=Europe/Berlin:20270628T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -3008,7 +1898,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40446@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270705T093000
 DTEND;TZID=Europe/Berlin:20270705T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -3025,7 +1915,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40447@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270712T093000
 DTEND;TZID=Europe/Berlin:20270712T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -3041,64 +1931,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa-38442@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270712T100000
-DTEND;TZID=Europe/Berlin:20270712T163000
-SUMMARY:Life Drawing (optional)
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Optional\nDozent*innen: Niall Laverty\nPflicht für: CH.ANIM1\,
-  CH.ANIM2\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-07-12&
- to=2027-07-12
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-38443@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270713T100000
-DTEND;TZID=Europe/Berlin:20270713T163000
-SUMMARY:Life Drawing (optional)
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Optional\nDozent*innen: Niall Laverty\nPflicht für: CH.ANIM1\,
-  CH.ANIM2\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-07-13&
- to=2027-07-13
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-38444@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270714T100000
-DTEND;TZID=Europe/Berlin:20270714T163000
-SUMMARY:Life Drawing (optional)
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Optional\nDozent*innen: Niall Laverty\nPflicht für: CH.ANIM1\,
-  CH.ANIM2\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-07-14&
- to=2027-07-14
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fa-38445@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
-DTSTART;TZID=Europe/Berlin:20270715T100000
-DTEND;TZID=Europe/Berlin:20270715T163000
-SUMMARY:Life Drawing (optional)
-LOCATION:A1.14 Seminarraum
-DESCRIPTION:Optional\nDozent*innen: Niall Laverty\nPflicht für: CH.ANIM1\,
-  CH.ANIM2\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-07-15&
- to=2027-07-15
-CATEGORIES:Optional
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fa-40448@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270719T093000
 DTEND;TZID=Europe/Berlin:20270719T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -3115,7 +1949,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40449@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270726T093000
 DTEND;TZID=Europe/Berlin:20270726T163000
 SUMMARY:R2A Seminar & Mentoring
@@ -3132,7 +1966,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38999@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270727T133000
 DTEND;TZID=Europe/Berlin:20270727T163000
 SUMMARY:Präsentationen
@@ -3145,7 +1979,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37946@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270728T093000
 DTEND;TZID=Europe/Berlin:20270728T163000
 SUMMARY:Präsentationen
@@ -3158,7 +1992,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38268@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270729T093000
 DTEND;TZID=Europe/Berlin:20270729T163000
 SUMMARY:Präsentationen
@@ -3171,7 +2005,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38267@ev3nts.filmakademie.de
-DTSTAMP:20261006T124540Z
+DTSTAMP:20261006T185648Z
 DTSTART;TZID=Europe/Berlin:20270730T093000
 DTEND;TZID=Europe/Berlin:20270730T163000
 SUMMARY:Präsentationen
