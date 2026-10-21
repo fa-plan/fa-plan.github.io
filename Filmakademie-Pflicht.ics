@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fa-36224@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260921T110000
 DTEND;TZID=Europe/Berlin:20260921T130000
 SUMMARY:Studienjahreröffnung
@@ -39,7 +39,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38794@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260921T170000
 DTEND;TZID=Europe/Berlin:20260921T193000
 SUMMARY:ASTA stellt sich vor & Pat*innentreffen
@@ -52,11 +52,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36231@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260922T093000
 DTEND;TZID=Europe/Berlin:20260922T163000
 SUMMARY:VFX License // VFX Führerschein
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Denis Krez\, Anna Matacz\n\nDi: 22.09.20
  26 Auftakt VFX Führerschein\n\nMi: 23.09.2026 VFX Führerschein Seminar u
  nd Test\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-09-22&to
@@ -67,11 +67,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36232@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260923T093000
 DTEND;TZID=Europe/Berlin:20260923T163000
 SUMMARY:VFX License // VFX Führerschein
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Denis Krez\, Anna Matacz\n\nDi: 22.09.20
  26 Auftakt VFX Führerschein\n\nMi: 23.09.2026 VFX Führerschein Seminar u
  nd Test\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2026-09-23&to
@@ -82,11 +82,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36241@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260924T093000
 DTEND;TZID=Europe/Berlin:20260924T163000
 SUMMARY:Richtige und falsche Bilder
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Lily Erlinger\, Thomas Schadt\n\nhttps:/
  /ev3nts.filmakademie.de/user/student/?from=2026-09-24&to=2026-09-24
 CATEGORIES:Pflicht
@@ -95,11 +95,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36242@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260925T093000
 DTEND;TZID=Europe/Berlin:20260925T163000
 SUMMARY:Richtige und falsche Bilder
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Lily Erlinger\, Thomas Schadt\n\nhttps:/
  /ev3nts.filmakademie.de/user/student/?from=2026-09-25&to=2026-09-25
 CATEGORIES:Pflicht
@@ -108,11 +108,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36287@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260928T093000
 DTEND;TZID=Europe/Berlin:20260928T163000
 SUMMARY:Filmgeschichte 2
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Bernd Kiefer\n\nhttps://ev3nts.filmakade
  mie.de/user/student/?from=2026-09-28&to=2026-09-28
 CATEGORIES:Pflicht
@@ -121,11 +121,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36288@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260929T093000
 DTEND;TZID=Europe/Berlin:20260929T163000
 SUMMARY:Filmgeschichte 2
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Bernd Kiefer\n\nhttps://ev3nts.filmakade
  mie.de/user/student/?from=2026-09-29&to=2026-09-29
 CATEGORIES:Pflicht
@@ -134,12 +134,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37883@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260930T093000
 DTEND;TZID=Europe/Berlin:20260930T123000
 SUMMARY:Handling studentischer Projekte\, Urheber- und Leistungsschutzrecht
  e & Distribution
-LOCATION:Filmgalerie ICLA
+LOCATION:M 0.23b (ICLA)
 DESCRIPTION:Pflicht\nDozent*innen: Peter Beutel\, Sigrid Gairing\, Cordula 
  Landt\, Katharina Schreiner\n\nhttps://ev3nts.filmakademie.de/user/student
  /?from=2026-09-30&to=2026-09-30
@@ -149,11 +149,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37884@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260930T133000
 DTEND;TZID=Europe/Berlin:20260930T153000
 SUMMARY:ePRO\, eDispo & DiFipo
-LOCATION:M1.31
+LOCATION:M 1.31 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Silke Harten-Preiss\, Wolfgang Kerber\, 
  Cordula Landt\, Nils Raabe\n\nhttps://ev3nts.filmakademie.de/user/student/
  ?from=2026-09-30&to=2026-09-30
@@ -163,11 +163,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38094@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20260930T153000
 DTEND;TZID=Europe/Berlin:20260930T183000
 SUMMARY:KickOff Zweitjahresprojekte
-LOCATION:M1.31
+LOCATION:M 1.31 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Igor Dovgal\, Verena Fels\, Silke Harten
  -Preiss\, Olivia Marten\, Roland Mönch\, Silke Regele\, Thomas Siegle\n\n
  https://ev3nts.filmakademie.de/user/student/?from=2026-09-30&to=2026-09-30
@@ -177,11 +177,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39774@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261001T093000
 DTEND;TZID=Europe/Berlin:20261001T101500
 SUMMARY:Case Study: Mimi und ich (Deutsch)
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Rimas Schmidt\n\nhttps://ev3nts.filmakad
  emie.de/user/student/?from=2026-10-01&to=2026-10-01
 CATEGORIES:Pflicht
@@ -190,11 +190,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39775@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261001T103000
 DTEND;TZID=Europe/Berlin:20261001T111500
 SUMMARY:Alumni Case Study: Condenaditos: There Is No Manual
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Matisse Gonzalez\, Stefan Michel\n\nCond
  enaditos: There Is No Manual\n\nCondenaditos is a feature film in developm
  ent between Studio Seufz (Germany)\, Ikki Films (France)\, and Amora Films
@@ -217,11 +217,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39779@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261001T113000
 DTEND;TZID=Europe/Berlin:20261001T121500
 SUMMARY:Alumni in der Streaming-Branche
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Morgane Dubief\, Eun-Zi Kim\, Benjamin M
  unz\, Verena Schilling\, Julius Windhorst\n\nhttps://ev3nts.filmakademie.d
  e/user/student/?from=2026-10-01&to=2026-10-01
@@ -231,11 +231,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39776@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261001T133000
 DTEND;TZID=Europe/Berlin:20261001T141500
 SUMMARY:Alumni Case Study: Woodblock - Going Spherical and Beyond
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Ilija Brunck\n\nCo-founder Ilija Brunck 
  traces Woodblock's path from its Filmakademie roots to recent large-scale 
  productions at Sphere Las Vegas\, and shares what's next for the studio.\n
@@ -247,11 +247,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39777@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261001T143000
 DTEND;TZID=Europe/Berlin:20261001T151500
 SUMMARY:Alumni Case Study: Same Craft\, Different Business
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Julian Weiss\n\nA degree in VFX or anima
  tion looks like a ticket to one specific industry. It isn't. It is trainin
  g in judgement - knowing what makes an image hold\, what makes a story lan
@@ -266,7 +266,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36301@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261005T100000
 DTEND;TZID=Europe/Berlin:20261005T133000
 SUMMARY:Grundlagen Arbeitssicherheit am Set von Film- und Medienproduktione
@@ -280,11 +280,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36302@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261005T143000
 DTEND;TZID=Europe/Berlin:20261005T170000
 SUMMARY:Vertragsgestaltung
-LOCATION:M1.31
+LOCATION:M 1.31 Seminarraum
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  26-10-05&to=2026-10-05
 CATEGORIES:Pflicht
@@ -293,11 +293,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36309@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261006T093000
 DTEND;TZID=Europe/Berlin:20261006T163000
 SUMMARY:Filmgeschichte 2 (1/3)
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Studienleitung\nPflicht\nDozent*innen: Marcus Stiglegger\n\nhtt
  ps://ev3nts.filmakademie.de/user/student/?from=2026-10-06&to=2026-10-06
 CATEGORIES:Pflicht
@@ -306,11 +306,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36310@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261007T093000
 DTEND;TZID=Europe/Berlin:20261007T163000
 SUMMARY:Filmgeschichte 2 (1/3)
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Studienleitung\nPflicht\nDozent*innen: Marcus Stiglegger\n\nhtt
  ps://ev3nts.filmakademie.de/user/student/?from=2026-10-07&to=2026-10-07
 CATEGORIES:Pflicht
@@ -319,11 +319,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36339@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261012T093000
 DTEND;TZID=Europe/Berlin:20261012T113000
 SUMMARY:KI Themenwoche
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
  er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
  Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
@@ -336,11 +336,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40744@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261012T113000
 DTEND;TZID=Europe/Berlin:20261012T163000
 SUMMARY:KI Themenwoche
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
  er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
  Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
@@ -353,11 +353,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36340@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261013T093000
 DTEND;TZID=Europe/Berlin:20261013T163000
 SUMMARY:KI Themenwoche
-LOCATION:Filmgalerie Empfang
+LOCATION:M 0.23a (Empfang)
 DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
  er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
  Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
@@ -370,11 +370,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36341@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261014T093000
 DTEND;TZID=Europe/Berlin:20261014T163000
 SUMMARY:KI Themenwoche
-LOCATION:A1.15 Computer Lab
+LOCATION:A 1.15 Computer Lab
 DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
  er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
  Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
@@ -387,11 +387,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-36342@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261015T093000
 DTEND;TZID=Europe/Berlin:20261015T163000
 SUMMARY:KI Themenwoche
-LOCATION:A1.15 Computer Lab
+LOCATION:A 1.15 Computer Lab
 DESCRIPTION:Pflicht\nDozent*innen: Anna Di Luce\, Cem Karayakas\, Mick Mahl
  er\n\nÜbersicht:\n\nMontag\, 12. und Dienstag\, 13.10.2026\n\nPreviz mit 
  Cloudtools - offen für alle Interessierten\n\nMittwoch\, 14. und Donnerst
@@ -404,11 +404,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41409@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261016T093000
 DTEND;TZID=Europe/Berlin:20261016T163000
 SUMMARY:Film - und Mediengeschichte 2
-LOCATION:Filmgalerie ICLA
+LOCATION:M 0.23b (ICLA)
 DESCRIPTION:Studienleitung\nPflicht\nDozent*innen: Andreas Rauscher\n\nhttp
  s://ev3nts.filmakademie.de/user/student/?from=2026-10-16&to=2026-10-16
 CATEGORIES:Pflicht
@@ -417,11 +417,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40386@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261019T093000
 DTEND;TZID=Europe/Berlin:20261019T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:A1.14 Seminarraum
+LOCATION:A 1.14 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -434,11 +434,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-33892@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261020T100000
 DTEND;TZID=Europe/Berlin:20261020T163000
 SUMMARY:Self Portrait
-LOCATION:G1.15
+LOCATION:G 1.15 Projektraum
 DESCRIPTION:Pflicht\nDozent*innen: Regina Pessoa\nPflicht für: R2A\n\nhttp
  s://ev3nts.filmakademie.de/user/student/?from=2026-10-20&to=2026-10-20
 CATEGORIES:Pflicht
@@ -447,11 +447,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-33893@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261021T100000
 DTEND;TZID=Europe/Berlin:20261021T163000
 SUMMARY:Self Portrait
-LOCATION:G1.15
+LOCATION:G 1.15 Projektraum
 DESCRIPTION:Pflicht\nDozent*innen: Regina Pessoa\nPflicht für: R2A\n\nhttp
  s://ev3nts.filmakademie.de/user/student/?from=2026-10-21&to=2026-10-21
 CATEGORIES:Pflicht
@@ -460,11 +460,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-33894@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261022T100000
 DTEND;TZID=Europe/Berlin:20261022T163000
 SUMMARY:Self Portrait
-LOCATION:G1.15
+LOCATION:G 1.15 Projektraum
 DESCRIPTION:Pflicht\nDozent*innen: Regina Pessoa\nPflicht für: R2A\n\nhttp
  s://ev3nts.filmakademie.de/user/student/?from=2026-10-22&to=2026-10-22
 CATEGORIES:Pflicht
@@ -473,11 +473,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40422@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261026T093000
 DTEND;TZID=Europe/Berlin:20261026T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -490,11 +490,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37700@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261027T100000
 DTEND;TZID=Europe/Berlin:20261027T163000
 SUMMARY:Visual experiments
-LOCATION:A0.13 Seminarraum
+LOCATION:A 0.13 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Yingda Dong\nPflicht für: R2A\n\nhttps:
  //ev3nts.filmakademie.de/user/student/?from=2026-10-27&to=2026-10-27
 CATEGORIES:Pflicht
@@ -503,11 +503,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37701@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261028T100000
 DTEND;TZID=Europe/Berlin:20261028T163000
 SUMMARY:Visual experiments
-LOCATION:A0.13 Seminarraum
+LOCATION:A 0.13 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Yingda Dong\nPflicht für: R2A\n\nhttps:
  //ev3nts.filmakademie.de/user/student/?from=2026-10-28&to=2026-10-28
 CATEGORIES:Pflicht
@@ -516,11 +516,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37702@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261029T100000
 DTEND;TZID=Europe/Berlin:20261029T163000
 SUMMARY:Visual experiments
-LOCATION:A0.13 Seminarraum
+LOCATION:A 0.13 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Yingda Dong\nPflicht für: R2A\n\nhttps:
  //ev3nts.filmakademie.de/user/student/?from=2026-10-29&to=2026-10-29
 CATEGORIES:Pflicht
@@ -529,11 +529,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37703@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261030T100000
 DTEND;TZID=Europe/Berlin:20261030T163000
 SUMMARY:Visual experiments
-LOCATION:A0.13 Seminarraum
+LOCATION:A 0.13 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Yingda Dong\nPflicht für: R2A\n\nhttps:
  //ev3nts.filmakademie.de/user/student/?from=2026-10-30&to=2026-10-30
 CATEGORIES:Pflicht
@@ -542,11 +542,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40423@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261102T093000
 DTEND;TZID=Europe/Berlin:20261102T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.31 Seminarraum Produktion
+LOCATION:M 2.31 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -559,11 +559,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37745@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261103T100000
 DTEND;TZID=Europe/Berlin:20261103T123000
 SUMMARY:Einführung Medianet
-LOCATION:A0.13 Seminarraum
+LOCATION:A 0.13 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Viet Nguyen\nPflicht für: A2\, DA_AEP1\
  , DA_IM1\, DA_TD1\, QS_A3\, R2A\n\nhttps://ev3nts.filmakademie.de/user/stu
  dent/?from=2026-11-03&to=2026-11-03
@@ -573,7 +573,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37099@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261106T100000
 DTEND;TZID=Europe/Berlin:20261106T160000
 SUMMARY:AKA Pitching
@@ -586,11 +586,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40424@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261109T093000
 DTEND;TZID=Europe/Berlin:20261109T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -603,11 +603,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37917@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261110T100000
 DTEND;TZID=Europe/Berlin:20261110T163000
 SUMMARY:Basics of Animation
-LOCATION:G2.12 Seminarraum Gewächshausweg
+LOCATION:G 2.12 Seminarraum Atelier
 DESCRIPTION:Pflicht\nDozent*innen: Urte Zintler\nPflicht für: R2A\n\nhttps
  ://ev3nts.filmakademie.de/user/student/?from=2026-11-10&to=2026-11-10
 CATEGORIES:Pflicht
@@ -616,11 +616,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37918@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261111T100000
 DTEND;TZID=Europe/Berlin:20261111T163000
 SUMMARY:Basics of Animation
-LOCATION:G2.12 Seminarraum Gewächshausweg
+LOCATION:G 2.12 Seminarraum Atelier
 DESCRIPTION:Pflicht\nDozent*innen: Urte Zintler\nPflicht für: R2A\n\nhttps
  ://ev3nts.filmakademie.de/user/student/?from=2026-11-11&to=2026-11-11
 CATEGORIES:Pflicht
@@ -629,11 +629,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37919@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261112T100000
 DTEND;TZID=Europe/Berlin:20261112T163000
 SUMMARY:Basics of Animation
-LOCATION:G2.12 Seminarraum Gewächshausweg
+LOCATION:G 2.12 Seminarraum Atelier
 DESCRIPTION:Pflicht\nDozent*innen: Urte Zintler\nPflicht für: R2A\n\nhttps
  ://ev3nts.filmakademie.de/user/student/?from=2026-11-12&to=2026-11-12
 CATEGORIES:Pflicht
@@ -642,11 +642,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40425@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261116T093000
 DTEND;TZID=Europe/Berlin:20261116T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -659,11 +659,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37715@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261117T100000
 DTEND;TZID=Europe/Berlin:20261117T163000
 SUMMARY:Storyboarding Workshop
-LOCATION:A2.27 Seminarraum
+LOCATION:A 2.27 Meeting
 DESCRIPTION:Pflicht\nDozent*innen: Christian Puille\nPflicht für: R2A\n\nh
  ttps://ev3nts.filmakademie.de/user/student/?from=2026-11-17&to=2026-11-17
 CATEGORIES:Pflicht
@@ -672,11 +672,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37714@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 DTEND;TZID=Europe/Berlin:20261118T163000
 SUMMARY:Storyboarding Workshop
-LOCATION:A2.27 Seminarraum
+LOCATION:A 2.27 Meeting
 DESCRIPTION:Pflicht\nDozent*innen: Christian Puille\nPflicht für: R2A\n\nh
  ttps://ev3nts.filmakademie.de/user/student/?from=2026-11-18&to=2026-11-18
 CATEGORIES:Pflicht
@@ -685,11 +685,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37499@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261119T093000
 DTEND;TZID=Europe/Berlin:20261119T163000
 SUMMARY:ANIMATIC Workshop
-LOCATION:LU1.03
+LOCATION:LU 1.03 Seminarraum
 DESCRIPTION:Workshop\nPflicht\nDozent*innen: Revan Sarikaya\nPflicht für: 
  MS2\, R2A\n\nZusammen mit Regie 2 Animation\n\nhttps://ev3nts.filmakademie
  .de/user/student/?from=2026-11-19&to=2026-11-19
@@ -699,7 +699,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37501@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261119T170000
 DTEND;TZID=Europe/Berlin:20261119T190000
 SUMMARY:Meet and Greet
@@ -712,11 +712,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37500@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261120T093000
 DTEND;TZID=Europe/Berlin:20261120T163000
 SUMMARY:ANIMATIC Workshop
-LOCATION:LU1.03
+LOCATION:LU 1.03 Seminarraum
 DESCRIPTION:Workshop\nPflicht\nDozent*innen: Revan Sarikaya\nPflicht für: 
  MS2\, R2A\n\nZusammen mit Regie 2 Animation\n\nhttps://ev3nts.filmakademie
  .de/user/student/?from=2026-11-20&to=2026-11-20
@@ -726,11 +726,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40426@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261123T093000
 DTEND;TZID=Europe/Berlin:20261123T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -743,7 +743,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37554@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261124T100000
 DTEND;TZID=Europe/Berlin:20261124T163000
 SUMMARY:Character Design
@@ -757,11 +757,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40427@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261130T093000
 DTEND;TZID=Europe/Berlin:20261130T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -774,11 +774,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40428@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261201T093000
 DTEND;TZID=Europe/Berlin:20261201T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -791,7 +791,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41401@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261202T100000
 DTEND;TZID=Europe/Berlin:20261202T163000
 SUMMARY:Basics of Animation
@@ -803,7 +803,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41402@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261203T100000
 DTEND;TZID=Europe/Berlin:20261203T163000
 SUMMARY:Basics of Animation
@@ -815,7 +815,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41403@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261204T100000
 DTEND;TZID=Europe/Berlin:20261204T163000
 SUMMARY:Basics of Animation
@@ -827,11 +827,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40450@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261207T093000
 DTEND;TZID=Europe/Berlin:20261207T163000
 SUMMARY:R2A Mistone 1 - Animatic Presentation WIP
-LOCATION:M2.25
+LOCATION:M 2.25 Seminarraum
 DESCRIPTION:Internal Project Presentation\nPflicht\nDozent*innen: Verena Fe
  ls\, Martin Schmidt\nPflicht für: R2A\n\nR2A Milestone 1 - Animatic Prese
  ntation WIP\n\nWe present the current status of your project’s animatic 
@@ -843,11 +843,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41026@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T123000
 SUMMARY:Basics der Arbeit 1 - 4
-LOCATION:A1.14 Seminarraum
+LOCATION:A 1.14 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Andreas Ulmer\nPflicht für: A2\, R2A\n\
  nhttps://ev3nts.filmakademie.de/user/student/?from=2026-12-09&to=2026-12-0
  9
@@ -857,11 +857,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40430@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261214T093000
 DTEND;TZID=Europe/Berlin:20261214T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.25
+LOCATION:M 2.25 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -874,11 +874,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37436@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261217T100000
 DTEND;TZID=Europe/Berlin:20261217T213000
 SUMMARY:Tage des Films
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  26-12-17&to=2026-12-17
 CATEGORIES:Pflicht
@@ -887,11 +887,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37437@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20261218T100000
 DTEND;TZID=Europe/Berlin:20261218T183000
 SUMMARY:Tage des Films
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  26-12-18&to=2026-12-18
 CATEGORIES:Pflicht
@@ -900,11 +900,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40459@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270111T093000
 DTEND;TZID=Europe/Berlin:20270111T163000
 SUMMARY:R2A Seminar & Menotring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Production plan for R2A\nPflicht\nDozent*innen: Verena Fels\, M
  artin Schmidt\nPflicht für: R2A\n\nWe learn how to plan an animated short
   film throughout the semester until July. We get an introduction to the ke
@@ -917,11 +917,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41027@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270113T100000
 DTEND;TZID=Europe/Berlin:20270113T123000
 SUMMARY:Basics der Arbeit 1 - 4
-LOCATION:A1.14 Seminarraum
+LOCATION:A 1.14 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Andreas Ulmer\nPflicht für: A2\, R2A\n\
  nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-13&to=2027-01-1
  3
@@ -931,11 +931,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37949@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270114T093000
 DTEND;TZID=Europe/Berlin:20270114T163000
 SUMMARY:Einführung: Montage/Schnitt - Postproduction Workflows
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Katja Fischer\, Sven Nuri\n\nhttps://ev3
  nts.filmakademie.de/user/student/?from=2027-01-14&to=2027-01-14
 CATEGORIES:Pflicht
@@ -944,11 +944,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37961@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270115T093000
 DTEND;TZID=Europe/Berlin:20270115T163000
 SUMMARY:Postproduktion an der FABW: Postproduction Workflows
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\nDozent*innen: Ebrahim Alfadhala\, Gökce Onur\, Michae
  l Schott\n\nhttps://ev3nts.filmakademie.de/user/student/?from=2027-01-15&t
  o=2027-01-15
@@ -958,11 +958,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40431@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270118T093000
 DTEND;TZID=Europe/Berlin:20270118T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -975,7 +975,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40811@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270120T170000
 DTEND;TZID=Europe/Berlin:20270120T190000
 SUMMARY:Pitching 2. Jahres-Projekte Werbefilm und Animationsfilm.
@@ -988,7 +988,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37100@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270122T100000
 DTEND;TZID=Europe/Berlin:20270122T160000
 SUMMARY:AKA Pitching
@@ -1001,11 +1001,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40464@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270126T093000
 DTEND;TZID=Europe/Berlin:20270126T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1018,11 +1018,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40432@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270201T093000
 DTEND;TZID=Europe/Berlin:20270201T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1035,11 +1035,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40433@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270208T093000
 DTEND;TZID=Europe/Berlin:20270208T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1052,11 +1052,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41028@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270210T100000
 DTEND;TZID=Europe/Berlin:20270210T123000
 SUMMARY:Basics der Arbeit 1 - 4
-LOCATION:A1.14 Seminarraum
+LOCATION:A 1.14 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Andreas Ulmer\nPflicht für: A2\, R2A\n\
  nhttps://ev3nts.filmakademie.de/user/student/?from=2027-02-10&to=2027-02-1
  0
@@ -1066,11 +1066,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40434@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270215T093000
 DTEND;TZID=Europe/Berlin:20270215T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1083,11 +1083,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38117@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270222T100000
 DTEND;TZID=Europe/Berlin:20270222T123000
 SUMMARY:Semesterpräsentationen Animation 2
-LOCATION:A0.06 Grading Suite
+LOCATION:A 0.06 Grading Suite
 DESCRIPTION:Pflicht\nDozent*innen: Verena Fels\, Anna Matacz\, Jan Pinkava\
  , Martin Schmidt\nPflicht für: A2\, R2A\n\nhttps://ev3nts.filmakademie.de
  /user/student/?from=2027-02-22&to=2027-02-22
@@ -1097,7 +1097,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37936@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270405T093000
 DTEND;TZID=Europe/Berlin:20270405T163000
 SUMMARY:SoSe Auftakt: Mind & Body
@@ -1110,11 +1110,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37937@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270406T093000
 DTEND;TZID=Europe/Berlin:20270406T163000
 SUMMARY:KI
-LOCATION:A1.15 Computer Lab
+LOCATION:A 1.15 Computer Lab
 DESCRIPTION:Pflicht\nDozent*innen: Nira Bozkurt\n\nhttps://ev3nts.filmakade
  mie.de/user/student/?from=2027-04-06&to=2027-04-06
 CATEGORIES:Pflicht
@@ -1123,11 +1123,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-39125@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270407T093000
 DTEND;TZID=Europe/Berlin:20270407T163000
 SUMMARY:KI
-LOCATION:A1.15 Computer Lab
+LOCATION:A 1.15 Computer Lab
 DESCRIPTION:Pflicht\nDozent*innen: Nira Bozkurt\n\nhttps://ev3nts.filmakade
  mie.de/user/student/?from=2027-04-07&to=2027-04-07
 CATEGORIES:Pflicht
@@ -1136,11 +1136,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40435@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270412T093000
 DTEND;TZID=Europe/Berlin:20270412T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.25
+LOCATION:M 2.25 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1153,11 +1153,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-41029@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270414T100000
 DTEND;TZID=Europe/Berlin:20270414T123000
 SUMMARY:Basics der Arbeit 1 - 4
-LOCATION:A1.14 Seminarraum
+LOCATION:A 1.14 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Andreas Ulmer\nPflicht für: A2\, R2A\n\
  nhttps://ev3nts.filmakademie.de/user/student/?from=2027-04-14&to=2027-04-1
  4
@@ -1167,7 +1167,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37101@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270416T100000
 DTEND;TZID=Europe/Berlin:20270416T160000
 SUMMARY:AKA Pitching
@@ -1180,11 +1180,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40436@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270419T093000
 DTEND;TZID=Europe/Berlin:20270419T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.30
+LOCATION:M 2.30 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1197,11 +1197,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40437@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270426T093000
 DTEND;TZID=Europe/Berlin:20270426T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1214,7 +1214,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38126@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270427T100000
 DTEND;TZID=Europe/Berlin:20270427T163000
 SUMMARY:FMX 2027
@@ -1227,7 +1227,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38127@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270428T100000
 DTEND;TZID=Europe/Berlin:20270428T163000
 SUMMARY:FMX 2027
@@ -1240,7 +1240,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38128@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270429T100000
 DTEND;TZID=Europe/Berlin:20270429T163000
 SUMMARY:FMX 2027
@@ -1253,7 +1253,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38129@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270430T100000
 DTEND;TZID=Europe/Berlin:20270430T163000
 SUMMARY:FMX 2027
@@ -1266,11 +1266,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40438@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270503T093000
 DTEND;TZID=Europe/Berlin:20270503T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1283,11 +1283,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40439@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270510T093000
 DTEND;TZID=Europe/Berlin:20270510T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1300,7 +1300,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37102@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270521T100000
 DTEND;TZID=Europe/Berlin:20270521T160000
 SUMMARY:AKA Pitching
@@ -1313,11 +1313,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40456@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270525T093000
 DTEND;TZID=Europe/Berlin:20270525T163000
 SUMMARY:R2A Milestone 4 - Rough Animation Presenation
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Pflicht\nDozent*innen: Verena Fels\, Martin Schmidt\nPflicht f
  ür: R2A\n\nWe present the final status of our project’s rough animation
   to the group and receive feedback for the final refinements of the projec
@@ -1329,11 +1329,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40441@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270531T093000
 DTEND;TZID=Europe/Berlin:20270531T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1346,11 +1346,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40442@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270607T093000
 DTEND;TZID=Europe/Berlin:20270607T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1363,11 +1363,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40443@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270614T093000
 DTEND;TZID=Europe/Berlin:20270614T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1380,11 +1380,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40444@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270621T093000
 DTEND;TZID=Europe/Berlin:20270621T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1397,11 +1397,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40445@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270628T093000
 DTEND;TZID=Europe/Berlin:20270628T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1414,11 +1414,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40446@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270705T093000
 DTEND;TZID=Europe/Berlin:20270705T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1431,11 +1431,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40447@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270712T093000
 DTEND;TZID=Europe/Berlin:20270712T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1448,11 +1448,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40448@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270719T093000
 DTEND;TZID=Europe/Berlin:20270719T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1465,11 +1465,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-40449@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270726T093000
 DTEND;TZID=Europe/Berlin:20270726T163000
 SUMMARY:R2A Seminar & Mentoring
-LOCATION:M2.18 Seminarraum
+LOCATION:M 2.18 Seminarraum
 DESCRIPTION:Directing 2 Animation Curriculum\nPflicht\nDozent*innen: Verena
   Fels\, Martin Schmidt\nPflicht für: R2A\n\nDirecting 2 Animation Curricu
  lum\n\nWe step into the world of animation and learn how to create a anima
@@ -1482,11 +1482,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38999@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270727T133000
 DTEND;TZID=Europe/Berlin:20270727T163000
 SUMMARY:Präsentationen
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  27-07-27&to=2027-07-27
 CATEGORIES:Pflicht
@@ -1495,11 +1495,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-37946@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270728T093000
 DTEND;TZID=Europe/Berlin:20270728T163000
 SUMMARY:Präsentationen
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  27-07-28&to=2027-07-28
 CATEGORIES:Pflicht
@@ -1508,11 +1508,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38268@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270729T093000
 DTEND;TZID=Europe/Berlin:20270729T163000
 SUMMARY:Präsentationen
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  27-07-29&to=2027-07-29
 CATEGORIES:Pflicht
@@ -1521,11 +1521,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa-38267@ev3nts.filmakademie.de
-DTSTAMP:20261020T171850Z
+DTSTAMP:20261021T101746Z
 DTSTART;TZID=Europe/Berlin:20270730T093000
 DTEND;TZID=Europe/Berlin:20270730T163000
 SUMMARY:Präsentationen
-LOCATION:Caligari
+LOCATION:Caligari-Kino
 DESCRIPTION:Pflicht\n\nhttps://ev3nts.filmakademie.de/user/student/?from=20
  27-07-30&to=2027-07-30
 CATEGORIES:Pflicht
